@@ -56,7 +56,7 @@ Os dados de campo são encapsulados e enviados a cada 2 segundos no formato estr
 
 ## 👥 Autores
 * Ivan Capelle
-* Níkolas Povreslo
+* Níkolas Bánkuti
 
 ---
 *Projeto desenvolvido como atividade prática ("Aplicando Conhecimento") para a Faculdade de Computação e Informática - Universidade Presbiteriana Mackenzie (UPM).*
