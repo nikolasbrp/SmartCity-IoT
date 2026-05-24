@@ -51,3 +51,12 @@ Os dados de campo são encapsulados e enviados a cada 2 segundos no formato estr
   "distancia_cm": 18.5,
   "status": "EMERGENCIA: Alagamento detectado!"
 }
+```
+---
+
+## 👥 Autores
+* Ivan Capelle
+* Níkolas Povreslo
+
+---
+*Projeto desenvolvido como atividade prática ("Aplicando Conhecimento") para a Faculdade de Computação e Informática - Universidade Presbiteriana Mackenzie (UPM).*
